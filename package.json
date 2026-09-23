@@ -1,0 +1,28 @@
+{
+  "name": "act4_tics",
+  "version": "1.0.0",
+  "description": "Proyecto que usar husky",
+  "homepage": "https://github.com/Humberto-crl/Act4_Tics#readme",
+  "bugs": {
+    "url": "https://github.com/Humberto-crl/Act4_Tics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humberto-crl/Act4_Tics.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "eslint.config.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.0",
+    "@eslint/markdown": "^8.0.3",
+    "eslint": "^10.11.0",
+    "globals": "^17.12.0",
+    "husky": "^9.1.7"
+  }
+}
